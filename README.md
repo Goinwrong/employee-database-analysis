@@ -1,4 +1,6 @@
 # Employee Database Analysis
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 This project demonstrates how to design and analyze a mock employee database using SQL. The project includes creating tables, inserting mock data, and running analysis queries to generate insights such as employee retention, salaries, promotions, and department performance.
 
@@ -77,5 +79,3 @@ This project demonstrates how SQL can be used to:
 ## Author
 Created by Crystal Ryals.
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![MIT License](https://img.shields.io/badge/license-MIT-green)

@@ -77,3 +77,5 @@ This project demonstrates how SQL can be used to:
 ## Author
 Created by Crystal Ryals.
 
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
